@@ -30,7 +30,7 @@
     "highcharts-exporting": "0.1.2",
     "highcharts-offline-exporting": "0.1.2",
     "lodash": "4.17.21",
-    "lowdb": "0.12.5",
+    "lowdb": "0.17.2",
     "moment": "2.13.0",
     "react": "15.7.0",
     "react-dom": "16.5.0",
