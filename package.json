@@ -26,7 +26,7 @@
     "cookie-parser": "1.4.3",
     "express": "4.19.2",
     "fb-sleep": "2.3.0",
-    "highcharts": "4.2.5",
+    "highcharts": "9.0.0",
     "highcharts-exporting": "0.1.2",
     "highcharts-offline-exporting": "0.1.2",
     "lodash": "4.17.21",
